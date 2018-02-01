@@ -1,5 +1,6 @@
 package com.study.coolweather;
 
+
 import android.app.Application;
 
 import org.litepal.LitePal;
